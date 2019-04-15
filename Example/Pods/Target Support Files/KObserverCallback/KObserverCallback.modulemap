@@ -1,0 +1,6 @@
+framework module KObserverCallback {
+  umbrella header "KObserverCallback-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KObserverCallback",
+  "version": "0.1.0",
+  "summary": "A short description of KObserverCallback.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xtxh/KObserverCallback",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xtxh": "xtxh@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/xtxh/KObserverCallback.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KObserverCallback/Classes/**/*"
+}
