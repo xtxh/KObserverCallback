@@ -1,0 +1,7 @@
+use_frameworks!
+target 'KObserverCallback_Tests' do
+  pod 'KObserverCallback', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
